@@ -104,9 +104,22 @@
   line-height: 1.42;
 }
 
+.brand-logo{
+  display: flex;
+}
+
+.headerimg{
+  width: 40px;
+  height: fit-content;
+}
+
 .hero-content{
   text-align: center;
   padding: 5.5rem 0;
+}
+
+.homepage-img{
+  width: 300px;
 }
 
 .code-icon{
@@ -467,6 +480,10 @@
   height: 200px;
 }
 
+#contact .modal-body{
+  display: block;
+  text-align: -webkit-center;
+}
 
 
 [data-animation="zoomInOut"].full-site-modal{
