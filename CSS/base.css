@@ -33,7 +33,7 @@ body{
 }
 
 a{
-  color: #495fef;
+  color: #634dd3;
   text-decoration: none;
   background-color: transparent;
 }
@@ -87,8 +87,8 @@ button:not(:disabled):not(.disabled){
 .btn-primary
 ,.btn-primary a{
   color: #fff;
-  background-color: #495fef;
-  border-color: #495fef;
+  background-color: #634dd3;
+  border-color: #634dd3;
 }
 
 .round-pill{
